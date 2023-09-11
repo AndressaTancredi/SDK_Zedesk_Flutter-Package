@@ -1,15 +1,3 @@
-# zendesk_support
+# Zendesk Support Package
 
-A new flutter plugin project.
-
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+This package was originally conceived as a 'proof of concept' aimed at demonstrating the feasibility of integrating the Zendesk SDK with native Android and iOS applications through Native Channels. While this initial phase was instrumental in validating the concept, it's important to note that I continually evolve the solution to meet the demands and ever-changing requirements. Currently, the package has been enhanced, and a more robust solution derived from this MVP is now in use.
